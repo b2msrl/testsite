@@ -1,9 +1,18 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "@@@vendor/@@@package_name",
+    "description": "@@@package_description",
+    "keywords": [@@@keywords],
     "license": "MIT",
     "type": "project",
+    "authors": [
+        {
+            "name": "@@@author",
+            "email": "@@@emailauthor",
+            "homepage" : "@@@siteauthor",
+            "role" : "Developer"
+
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",

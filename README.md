@@ -1,6 +1,6 @@
 ## WORK IN PROGRESS
-# @@@package-name
-@@@descr
+# @@@package_name
+@@@package_description
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -87,4 +87,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-scrutinizer]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name
 [link-downloads]: https://packagist.org/packages/@@@vendor/@@@package_name
+// TODO: @@@sensiolabs
 [link-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs
