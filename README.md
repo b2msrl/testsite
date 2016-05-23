@@ -15,7 +15,7 @@
 Table of Contents
 =================
 
-  * [@@@package-name](#@@@package-name)
+  * [@@@package_name](#@@@package_name)
   * [Table of Contents](#table-of-contents)
   * [Prerequisites](#prerequisites)
   * [Install](#install)
