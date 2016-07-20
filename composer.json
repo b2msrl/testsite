@@ -31,7 +31,8 @@
         "scrutinizer/ocular": "~1.1",
         "phpmd/phpmd": "2.*",
         "squizlabs/php_codesniffer": "2.*",
-        "padosoft/hooks": "^0.1"
+        "padosoft/hooks": "^0.1",
+        "padosoft/laravel-composer-security": "^1.4"
     },
     "autoload": {
         "classmap": [
@@ -62,9 +63,6 @@
             "php artisan ide-helper:generate -M -H",
             "php artisan ide-helper:meta",			
             "php artisan optimize"
-        ],
-        "pre-update-cmd": [
-            "php artisan clear-compiled"
         ],
         "post-update-cmd": [
 			"php artisan clear-compiled",

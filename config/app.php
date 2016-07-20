@@ -166,6 +166,7 @@ return [
          * PADOSOFT PACKAGES Service Providers...
          */
         Padosoft\LaravelComposerSecurity\ComposerSecurityCheckServiceProvider::class,
+        Padosoft\Hooks\HooksServiceProvider::class,
         MathiasGrimm\LaravelEnvValidator\ServiceProvider::class,
     ],
 
