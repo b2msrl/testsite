@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-		"guzzlehttp/guzzle": "^6.1",
+		"guzzlehttp/guzzle": "~6.2",
         "mathiasgrimm/laravel-env-validator": "^1.1"
     },
     "require-dev": {
@@ -31,8 +31,8 @@
         "scrutinizer/ocular": "~1.1",
         "phpmd/phpmd": "2.*",
         "squizlabs/php_codesniffer": "2.*",
-        "padosoft/hooks": "^0.1",
-        "padosoft/laravel-composer-security": "^1.4"
+        "padosoft/hooks": "0.*",
+        "padosoft/laravel-composer-security": "1.*"
     },
     "autoload": {
         "classmap": [
